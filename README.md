@@ -60,12 +60,11 @@ class About extends Me {
 
 <hr></hr>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djordjemilic&show_icons=true&locale=en" alt="djordjemilic" /></p>
+<div style="margin-top: 20px">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=djordjemilic&show_icons=true&locale=en" alt="djordjemilic" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djordjemilic&show_icons=true&locale=en&layout=compact" alt="djordjemilic" /></p>
-<br>
-&nbsp
+
 <p>&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=djordjemilic&" alt="djordjemilic" /></p>
 </div>
 
