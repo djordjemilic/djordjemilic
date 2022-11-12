@@ -66,6 +66,6 @@ class About extends Me {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djordjemilic&show_icons=true&locale=en&layout=compact" alt="djordjemilic" /></p>
 <br>
 &nbsp
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=djordjemilic&" alt="djordjemilic" /></p>
+<p>&nbsp<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=djordjemilic&" alt="djordjemilic" /></p>
 </div>
 
