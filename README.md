@@ -45,8 +45,6 @@ class About extends Me {
 ```
 <br>
  
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - 📫  How to reach me **milicdorde33@gmail.com** <br>
 - ⚡  Fun fact **I'm snow obsessed, in love with skiing/snowboarding**
 
