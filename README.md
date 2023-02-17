@@ -30,8 +30,8 @@
 // tools I use
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "PHP", "Javascript",  "Typescript", },
-    "FrameworksAndLibraries" : { "React.js", "Express.js",  "Node.js",  "Bootstrap",  "Tailwind",  "SCSS/SASS",  "Mongoose", "Next.js", "Redux" },
+    "ProgramingLanguages" : { "Javascript",  "Typescript", },
+    "FrameworksAndLibraries" : { "React.js", "Express.js", "Bootstrap",  "Tailwind",  "SCSS/SASS", "Next.js", "Redux" },
     "Database" : { "Firebase", "MongoDB", "MySQL", },
     "Editors" : { "Vscode", "Visual Studio" },
     "OtherTools" : { "Git", "Figma", "Photoshop"}
