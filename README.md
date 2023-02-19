@@ -21,17 +21,16 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
 ```dart
 // tools I use
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript",  "Typescript", },
+    "ProgramingLanguages" : { "Javascript",  "Typescript",},
     "FrameworksAndLibraries" : { "React.js", "Express.js", "Bootstrap",  "Tailwind",  "SCSS/SASS", "Next.js", "Redux" },
     "Database" : { "Firebase", "MongoDB", "MySQL", },
-    "Editors" : { "Vscode", "Visual Studio" },
+    "Editors" : { "VSCode", "Visual Studio" },
     "OtherTools" : { "Git", "Figma", "Photoshop"}
   };
 }
