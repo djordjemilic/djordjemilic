@@ -16,11 +16,11 @@
 // tools I use
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript",  "Typescript", "C#", "Python"},
-    "FrameworksAndLibraries" : { "React.js", "Express.js", "Bootstrap", ".NET", "Tailwind",  "SCSS/SASS", "Next.js", "Redux" },
-    "Database" : { "Firebase", "MongoDB", "MySQL", "PostgreSQL" },
-    "Editors" : { "VSCode", "Visual Studio", "Atom" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Docker", "Kubernetes"}
+    ProgramingLanguages : { "Javascript",  "Typescript", "C#", "Python"},
+    FrameworksAndLibraries : { "React.js", "Express.js", "Bootstrap", ".NET", "Tailwind",  "SCSS/SASS", "Next.js", "Redux" },
+    Database : { "Firebase", "MongoDB", "MySQL", "PostgreSQL" },
+    Editors : { "VSCode", "Visual Studio", "Atom" },
+    OtherTools : { "Git", "Figma", "Photoshop", "Docker", "Kubernetes"}
   };
 }
 ```
