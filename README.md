@@ -1,5 +1,5 @@
 <div align="left" width="50">
-<h3 align="left">Frontend Software Engineer</h3>
+<h3 align="left">Software Engineer</h3>
  
   
 <p><strong>I'm passionate about learning the latest and greatest technologies whether that is the frontend or backend. I enjoy creating sleek and responsive web applications in addition to being user friendly. 
